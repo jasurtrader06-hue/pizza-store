@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000";
+const BASE_URL = "https://6aaa775dff4dd5698b4e92c0.mockapi.io/pizza";
 
 async function request(path, options) {
   let res;
