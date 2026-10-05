@@ -1,0 +1,105 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "title": "Салями",
+      "price": 580,
+      "category": 0,
+      "rating": 8,
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "imageUrl": "/pizzas/salamino.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Базилик и перец",
+      "price": 475,
+      "category": 2,
+      "rating": 5,
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "imageUrl": "/pizzas/prosciutto.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Фокачча",
+      "price": 245,
+      "category": 3,
+      "rating": 4,
+      "types": [
+        1
+      ],
+      "sizes": [
+        26,
+        40
+      ],
+      "imageUrl": "/pizzas/focaccia.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Грибная",
+      "price": 415,
+      "category": 1,
+      "rating": 6,
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "imageUrl": "/pizzas/funghi.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Спинаци",
+      "price": 395,
+      "category": 4,
+      "rating": 7,
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "imageUrl": "/pizzas/spinaci.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Маргарита",
+      "price": 450,
+      "category": 5,
+      "rating": 9,
+      "types": [
+        0,
+        1
+      ],
+      "sizes": [
+        26,
+        30,
+        40
+      ],
+      "imageUrl": "/pizzas/margherita.jpg"
+    }
+  ],
+  "orders": []
+}
